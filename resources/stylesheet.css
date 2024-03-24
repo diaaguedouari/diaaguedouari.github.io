@@ -21,6 +21,12 @@ content {
     text-align: center;
 }
 
+.privacy {
+    margin: auto;
+    width: 50%;
+    font-family: 'Bai Jamjuree';
+}
+
 .banner {
     background-image: url(construction_banner.svg);
     height: 24px;
